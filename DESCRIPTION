@@ -14,7 +14,7 @@ Description: Diverse spatial datasets for demonstrating, benchmarking and teachi
     Some of the datasets are designed to illustrate specific analysis techniques.
     cycle_hire() and cycle_hire_osm(), for example, is designed to illustrate point pattern analysis techniques.
 Depends:
-    R (>= 3.3.0)
+    R (>= 3.2.0)
 Suggests:
     foreign,
     maptools,
